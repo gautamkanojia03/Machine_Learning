@@ -1,4 +1,4 @@
 # Machine_Learning
 Projects related to Machine learning
 <br>
-Author - Gautam SAMA
+Author - Gautam Kanojia
